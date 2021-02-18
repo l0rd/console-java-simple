@@ -1,4 +1,4 @@
-![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/l0rd/305badaae79a967379fce77f2577112e/raw/crw-shieldsio.json?cachebust=changethistoinvalidatecache)
+[![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/l0rd/305badaae79a967379fce77f2577112e/raw/crw-shieldsio.json?cachebust=changethistoinvalidatecache)](https://workspaces.openshift.com/f?url=https://github.com/l0rd/console-java-simple)
 
 # console-java-simple
 
