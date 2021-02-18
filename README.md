@@ -1,3 +1,5 @@
+![](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/l0rd/305badaae79a967379fce77f2577112e/raw/crw-shieldsio.json?cachebust=changethistoinvalidatecache)
+
 # console-java-simple
 
 A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.
