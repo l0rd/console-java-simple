@@ -8,5 +8,6 @@ public class HelloWorld {
     public static void main(String... argvs) {
         String a = "Che";
         System.out.println("Hello World " + a + "!");
+        String.format("The value of my integer is %d", "Hello World"); 
     }
 }
